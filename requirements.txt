@@ -1,0 +1,6 @@
+flask
+osmnx
+networkx
+shapely
+geopandas
+requests
